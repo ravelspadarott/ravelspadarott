@@ -31,9 +31,15 @@ edit: Starting learning React (18/07/22).
 
 </td><td valign="top" width="33%">
 
-<br/>  <br/>  <br/>  
+<br/>  
 
-## Github Stats  
-<div align="center"><img src="" align="center" /></div>  
+<br/>  
+##
+  <br/>  <br/>  
+  
+  Github Stats  
+
+   <div>  
+  </div>  
 
 <br/>  
