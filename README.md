@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Ravel,  just start getting skills to be a front-end developer 👨‍💻 training a lot since May, 2022. 🚀</div>  
+### <div align="center">I'm Ravel,  just start getting skills to be a front-end developer 👨‍💻 training a lot since April, 2025. 🚀</div>  
   
 
-- 🌱 I’m currently learning Front-End Techs. 
-
-edit: Starting learning React (18/07/22).  
-  
+- 🌱 I’m currently learning. 
 
 - ⚡  1% better, every day! ⚡  
   
